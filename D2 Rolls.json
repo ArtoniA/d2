@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Asceta God Roll",
     "name": "D2 Rolls",
     "data": [
         {
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Asceta PVE Roll",
             "hash": 1050806815,
             "name": "Asceta GOD ROLL2",
             "plugs": [
