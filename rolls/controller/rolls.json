@@ -21,7 +21,8 @@
                 [
                     3081867624,
                     2048641572
-                ]
+                ],
+                "description": "test descrizione",
             ],
             "tags": [
                 "GodPVE"
