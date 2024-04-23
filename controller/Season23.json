@@ -1,0 +1,28 @@
+{
+    "description": "Season23 Wishlist",
+    "name": "Season23",
+    "data": [
+        {
+            "description": "",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
