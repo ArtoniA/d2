@@ -3,9 +3,9 @@
     "name": "D2 Rolls",
     "data": [
         {
-            "description": "Asceta God Roll",
+            "description": "descrizione",
             "hash": 1050806815,
-            "name": "Asceta GOD ROLL",
+            "name": "nome",
             "plugs": [
                 [
                     839105230
@@ -21,8 +21,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "Controller"
+                "GodPVE"
             ]
         }
     ]
