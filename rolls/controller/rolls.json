@@ -1,7 +1,7 @@
 {
     "description": "",
     "name": "Panda Roll's",
-     "data": [
+    "data": [
         {
             "description": "",
             "hash": 1050806815,
@@ -47,6 +47,28 @@
             ],
             "tags": [
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
