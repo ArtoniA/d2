@@ -1,11 +1,11 @@
 {
-    "description": "descrizione pacchetto",
-    "name": "nome pacchetto",
+    "description": "Recommendations based on Panda's Season 23 weapons.",
+    "name": "D2 Rolls",
     "data": [
         {
-            "description": "descrizione",
+            "description": "",
             "hash": 1050806815,
-            "name": "nome",
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -22,6 +22,28 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
